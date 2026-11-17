@@ -25,7 +25,7 @@ The platform owns the shell, routing, storage boundaries, shared presentation, a
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![AGPL-3.0](https://img.shields.io/badge/AGPL--3.0-8B5CF6?style=flat-square)
 
-[**Explore the architecture →**](https://jcospina.github.io/aluna/) · [Repo](https://github.com/jcospina/aluna) · [Roadmap](https://github.com/jcospina/aluna/blob/main/docs/modules.md)
+[**Explore the architecture →**](https://jcospina.github.io/aluna/) · [Repo](https://github.com/jcospina/aluna) 
 
 ---
 
